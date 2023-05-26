@@ -139,3 +139,7 @@ ul li span2
 }
 
 
+ul li span2:hover
+{
+    background: #edeef0;
+}
