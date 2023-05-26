@@ -17,6 +17,14 @@ To use the Todo List application, follow these steps:
 2. Open the index.html file in your web browser.
 3. Start adding tasks and managing your todo list.
 
+## Screenshot
+
+![s1](https://github.com/sahil0286/To-Do-List-App/assets/119412630/fb11212b-8509-47e6-b922-ebb48f6b632a)
+
+![s2](https://github.com/sahil0286/To-Do-List-App/assets/119412630/28b5d224-38d2-4f41-9bf0-883e721f61ac)
+
+![s3](https://github.com/sahil0286/To-Do-List-App/assets/119412630/bbb5fce0-4996-4271-a6e2-d212db1069bf)
+
 ## Technologies Used
 
 - HTML: The structure of the web page.
