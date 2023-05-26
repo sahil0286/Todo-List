@@ -26,3 +26,10 @@ function saveData()
 {
     localStorage.setItem("data", listContainer.innerHTML);
 }
+
+function showData()
+{
+    listContainer.innerHTML=localStorage.getItem("data")
+}
+
+showData()
