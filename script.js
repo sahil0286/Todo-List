@@ -19,5 +19,10 @@ function addTask()
         li.appendChild(editIcon);
     }
     inputBox.value="";
+    saveData()
 }
 
+function saveData()
+{
+    localStorage.setItem("data", listContainer.innerHTML);
+}
