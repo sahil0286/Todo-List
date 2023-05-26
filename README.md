@@ -19,11 +19,11 @@ To use the Todo List application, follow these steps:
 
 ## Screenshot
 
-![s1](https://github.com/sahil0286/To-Do-List/assets/119412630/fb11212b-8509-47e6-b922-ebb48f6b632a)
+![s1](https://github.com/sahil0286/Todo-List/assets/119412630/34500544-db86-4ca4-869f-24f65ed3accc)
 
-![s2](https://github.com/sahil0286/To-Do-List/assets/119412630/28b5d224-38d2-4f41-9bf0-883e721f61ac)
+![s2](https://github.com/sahil0286/Todo-List/assets/119412630/db340ada-1b45-4c50-8097-d544be5a1093)
 
-![s3](https://github.com/sahil0286/To-Do-List/assets/119412630/bbb5fce0-4996-4271-a6e2-d212db1069bf)
+![s3](https://github.com/sahil0286/Todo-List/assets/119412630/7d984b2b-02dd-4333-92bd-258ae3df90eb)
 
 ## Technologies Used
 
