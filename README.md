@@ -13,7 +13,7 @@ Todo List is a simple web application that allows you to create and manage your 
 
 To use the Todo List application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/sahil0286/To-Do-List`
+1. Clone the repository: `git clone https://github.com/sahil0286/Todo-List.git`
 2. Open the index.html file in your web browser.
 3. Start adding tasks and managing your todo list.
 
