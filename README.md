@@ -11,11 +11,19 @@ Todo List is a simple web application that allows you to create and manage your 
 
 ## Screenshot
 
-![s1](https://github.com/sahil0286/Todo-List/assets/119412630/34500544-db86-4ca4-869f-24f65ed3accc)
+![t1](https://github.com/sahil0286/Todo-List/assets/119412630/69d6de3b-20f1-455b-9874-a08f4d40cf82)
 
-![s2](https://github.com/sahil0286/Todo-List/assets/119412630/db340ada-1b45-4c50-8097-d544be5a1093)
+![t2](https://github.com/sahil0286/Todo-List/assets/119412630/232ca5c0-13f8-4b98-a201-fe6122d39505)
 
-![s3](https://github.com/sahil0286/Todo-List/assets/119412630/7d984b2b-02dd-4333-92bd-258ae3df90eb)
+![t3](https://github.com/sahil0286/Todo-List/assets/119412630/2183eace-8764-41eb-aff4-60f4f3982755)
+
+![t4](https://github.com/sahil0286/Todo-List/assets/119412630/81be2ecc-69d2-43e9-be24-85259e11feb1)
+
+![t5](https://github.com/sahil0286/Todo-List/assets/119412630/229645db-fb21-4e5b-83f0-4b5316569c94)
+
+![t6](https://github.com/sahil0286/Todo-List/assets/119412630/0855e753-627c-4c4d-b987-3dda0517fb2f)
+
+![t7](https://github.com/sahil0286/Todo-List/assets/119412630/9c550c39-fcc6-449a-a20f-807f0a5332b0)
 
 ## Getting Started
 
