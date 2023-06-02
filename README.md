@@ -9,11 +9,19 @@ Todo List is a simple web application that allows you to create and manage your 
 - Delete tasks: Click on the "x" icon next to a task to delete it from the list.
 - Edit tasks: Click on the three dots icon next to a task to edit its text.
 
+## Screenshot
+
+![s1](https://github.com/sahil0286/Todo-List/assets/119412630/34500544-db86-4ca4-869f-24f65ed3accc)
+
+![s2](https://github.com/sahil0286/Todo-List/assets/119412630/db340ada-1b45-4c50-8097-d544be5a1093)
+
+![s3](https://github.com/sahil0286/Todo-List/assets/119412630/7d984b2b-02dd-4333-92bd-258ae3df90eb)
+
 ## Getting Started
 
 To use the Todo List application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/sahil0286/To-Do-List-App`
+1. Clone the repository: `git clone https://github.com/sahil0286/Todo-List.git`
 2. Open the index.html file in your web browser.
 3. Start adding tasks and managing your todo list.
 
